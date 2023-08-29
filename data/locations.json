@@ -1,0 +1,18 @@
+{
+    "locations": [
+      {
+        "id": 1,
+        "from": "Ankara",
+        "to": "İstanbul",
+        "date": "2023-09-15"
+      },
+      {
+        "id": 2,
+        "from": "İzmir",
+        "to": "Antalya",
+        "date": "2023-09-20"
+      }
+      
+    ]
+  }
+  
